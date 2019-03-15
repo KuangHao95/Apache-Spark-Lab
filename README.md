@@ -1,2 +1,2 @@
 # Apache Spark Lab
-- See inside each folder
+- See Lab.pdf inside each folder
