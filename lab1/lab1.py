@@ -1,4 +1,4 @@
-# Kuang Hao A0191488N
+# Kuang Hao
 import re
 import sys
 from pyspark import SparkConf, SparkContext
