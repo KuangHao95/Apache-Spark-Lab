@@ -1,6 +1,6 @@
 # Python 2.7.10 (compatible with 3.7+)
 # Spark version: 2.4.0
-# Kuang Hao A0191488N
+# Kuang Hao
 # Put 'lab3.py' in the same folder with 'stopwords.txt', 'query.txt' and folder: datafiles.
 # The result will be stored in 'result.txt'.
 from pyspark import SparkConf, SparkContext
