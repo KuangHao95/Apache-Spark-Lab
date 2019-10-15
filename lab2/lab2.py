@@ -1,6 +1,6 @@
 # Python 2.7.10
 # Spark version: 2.4.0
-# Kuang Hao A0191488N
+# Kuang Hao
 # Put 'lab2.py' in the same folder with 'stopwords.txt' and folder: datafiles.
 import re
 import sys
